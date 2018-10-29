@@ -1,0 +1,53 @@
+{
+  "status": 200,
+  "msg": "success",
+  "content": {
+      "banners": [
+          {
+              "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "url": "http://m.cucoe.net/home"
+          },{
+              "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "url": "http://m.cucoe.net/home"
+          }
+      ],
+      "icons": [
+          {
+              "title": "women",
+              "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "cate": 1498
+          },{
+              "title": "Shoes",
+              "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "cate": 1498
+          },
+          {
+            "title": "Shoes",
+            "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+            "cate": 1498
+        },
+        {
+          "title": "Shoes",
+          "img":"http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+          "cate": 1498
+        }
+      ],
+      "goods": [
+          {
+              "id": 294,
+              "name": "test",
+              "img": "http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "price": 20,
+              "stock": 85
+          },{
+              "id": 294,
+              "name": "test",
+              "img": "http://cucoe.oss-us-west-1.aliyuncs.com/product/000001000001/5b97c013e60ef.jpg",
+              "price": 20,
+              "stock": 85
+          }
+      ],
+      "diypage": "<div><a href='http://www.baidu.com'><img width='100%' src='http://yun.fepath.com/belt.png'/></a></div>",
+      "total_page": 1
+  }
+}
